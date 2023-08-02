@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mozziesan
-- 👀 I’m interested in anything Site Reliability Engineering, especially Systems Infrastructure, Observability and automation
+- 👀 I’m interested in anything Site Reliability Engineering, especially Systems Infrastructure at scale & Observability
 - 🌱 I’m currently learning about eBPF
 - 📫 How to reach me: contact@mozziesan.com
 
