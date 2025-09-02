@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mozziesan
-- 👀 I’m interested in anything Site Reliability Engineering, especially Systems Infrastructure at scale & Observability
-- 🌱 I’m currently learning about eBPF & Nix
+- 👀 I’m interested in anything Site Reliability Engineering, Systems/AI Infrastructure at scale & Observability
+- 🌱 I’m currently learning about Agentic AI (ADK, A2A, MCP, etc)
 - 📫 How to reach me: contact@mozziesan.com
 
 <!---
